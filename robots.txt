@@ -1,0 +1,7 @@
+User-agent: *
+Disallow:
+
+User-agent: YandexBot
+Disallow:
+Host: https://earnings-beta.vercel.app/
+Sitemap: https://earnings-beta.vercel.app/satimap.xml
